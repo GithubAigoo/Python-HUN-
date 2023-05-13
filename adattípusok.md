@@ -23,5 +23,3 @@
 11. **Osztályok (class):** Az osztályok segítségével objektumokat hozhatunk létre, amelyek tulajdonságokat és módszereket tartalmaznak.
 
 12. **None:** Egy speciális érték, amely azt jelenti, hogy nincs érték rendelve a változónak.
-
-<span style="color:blue">some *blue* text</span>

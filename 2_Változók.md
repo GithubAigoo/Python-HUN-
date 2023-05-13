@@ -23,3 +23,4 @@ coordinates = (10, 20)
 # Szótár változó létrehozása és értékadás
 person = {"name": "Alice", "age": 30}
 
+![image](https://github.com/GithubAigoo/Python/assets/132823189/1cf650a7-f78a-426e-b6cf-d542c87409c3)

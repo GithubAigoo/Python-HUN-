@@ -18,7 +18,7 @@
 
 9. **Halmazok (set):** Egyedi elemeket tartalmazó és nem rendezett halmaz. Például: {1, 2, 3}
 
-10.** Függvények (function):** Újrafelhasználható kódblokk, amely adott feladatot hajt végre.
+10.**Függvények (function):** Újrafelhasználható kódblokk, amely adott feladatot hajt végre.
 
 11. **Osztályok (class):** Az osztályok segítségével objektumokat hozhatunk létre, amelyek tulajdonságokat és módszereket tartalmaznak.
 

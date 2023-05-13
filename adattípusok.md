@@ -1,6 +1,6 @@
 # Pythonban számos adattípus létezik. Az alábbiakban felsorolok néhány gyakran használt adattípust Pythonban:
 
-1. **Egész számok (int):** Például: 0, 1, -5
+1. **Egész számok (![#FF0000]int) #FF0000:** Például: 0, 1, -5
 
 2. **Lebegőpontos számok (float):** Például: 3.14, -2.5
 

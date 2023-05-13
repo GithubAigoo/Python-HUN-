@@ -23,3 +23,8 @@ Pythonban számos adattípus létezik. Az alábbiakban felsorolok néhány gyakr
 11. Osztályok (class): Az osztályok segítségével objektumokat hozhatunk létre, amelyek tulajdonságokat és módszereket tartalmaznak.
 
 12. None: Egy speciális érték, amely azt jelenti, hogy nincs érték rendelve a változónak.
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```

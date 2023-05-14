@@ -6,4 +6,4 @@ Legyen szép napod! ^^
 
 
 
-![](princess-connect-anime-wave.gif)
+![alt-text](https://github.com/GithubAigoo/MyGifs/blob/main/princess-connect-anime-wave.gif)

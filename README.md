@@ -6,4 +6,4 @@ Legyen szép napod! ^^
 
 
 
-![image](https://github.com/GithubAigoo/Python/assets/132823189/98d57965-9fa0-46dd-81ad-c08fdd5cfc04)
+![](princess-connect-anime-wave.gif)
